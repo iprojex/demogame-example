@@ -33,6 +33,12 @@
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
   --dl-space-space-oneandhalfunits: 24px;
+  --subbg-color: #151d29;
+  --border-color: #293548;
+  --bg-color: #151d29;
+  --footer-bg: rgb(21,29,41);
+  --footer-border: rgb(14,19,27);
+
 }
 .button {
   color: var(--dl-color-gray-black);
